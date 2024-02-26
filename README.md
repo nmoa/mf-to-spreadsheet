@@ -1,3 +1,3 @@
 # mf-to-spreadsheet
 
-Write data in Moneyforward to Google spreadsheet using [moneyforward-driver](https://github.com/nmoa/moneyforward-driver/tree/main/moneyforward_driver)
+Fetch data from Moneyforward using [moneyforward-driver](https://github.com/nmoa/moneyforward-driver/tree/main/moneyforward_driver) and write them to Google spreadsheet
